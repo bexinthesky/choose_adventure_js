@@ -41,3 +41,4 @@ if (welcome === false) {
     alert("Please follow the instructions and type one of the two options if you would like to continue your adventure.");
   }
 }
+//The end!
