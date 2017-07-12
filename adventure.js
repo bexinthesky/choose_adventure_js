@@ -24,11 +24,7 @@ if (welcome === false) {
           }
         }
 
-    } else if (adventure === 'Fireworks') {
-
-    } else if (adventure === 'Brunch') {
-
-    } else {
+    }  else {
       alert("To continue the adventure, please type one of the 3 options: Kings Canyon, Fireworks, or Brunch.")
     }
 
@@ -36,4 +32,8 @@ if (welcome === false) {
 
 
 
-// var adventure = prompt("It's the 4th of July! How will you start Independence Day? Will you: Travel to Kings Canyon to enjoy a hike? Go to a fireworks booth to buy fireworks? Or, go to a 4th of July Brunch in the park? Please type one of the following options: Kings Canyon, Fireworks, or Brunch.");
+// else if (adventure === 'Fireworks') {
+//
+// } else if (adventure === 'Brunch') {
+//
+// }
